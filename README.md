@@ -23,10 +23,10 @@ make ARCH=arm CROSS_COMPILE=arm-linux-gnueabihf- menuconfig
 - Vào:
 ```bash
 Settings →
-
-
   [*] Build BusyBox as a static binary (no shared libs)
 ```
+<img width="1920" height="1080" alt="Screenshot from 2026-03-10 22-37-50" src="https://github.com/user-attachments/assets/b46ae8f5-a3de-4403-af9e-731c0faf5657" />
+
 - Bấm Space để chọn
 - Save → Exit
 
